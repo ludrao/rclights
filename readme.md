@@ -21,8 +21,13 @@ It is based on a PIC 12F1840, programmable directly in C (I used MPLABX for this
 
 
 The PCB is single face, with through hole components. It could be easily be converted int a surface mount PCB, thus reducing further the size of the PCB (basically the size of the button+connector). Please let me know if you are interested...
+
 ![alt test](img/pcb.png "PCB, only one face")
 
 
+Here is an export of the schematic (the sources files are in Eagle format in the hw directory).
+![alt test](img/schematic.png "schematic export")
 
+
+The full system, assembled and under test on my TB-04 Chassis...
 ![alt test](img/inplace.jpg "The system in test...")
