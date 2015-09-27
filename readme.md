@@ -21,7 +21,7 @@ It is based on a PIC 12F1840, programmable directly in C (I used MPLABX for this
 
 
 The PCB is single face, with through hole components. It could be easily be converted int a surface mount PCB, thus reducing further the size of the PCB (basically the size of the button+connector). Please let me know if you are interested...
-![alt test](img/pcb.jpg "PCB, only one face")
+![alt test](img/pcb.png "PCB, only one face")
 
 
 
