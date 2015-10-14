@@ -1,4 +1,4 @@
-# RC Ligths control system
+# RC Lights control system
 
 ### Basic feature list:
 * Two On/Off (PWM) outputs (fronts lights and rear lights)
@@ -6,7 +6,7 @@
 * One setup button.
 
 ### More descriptive feature:
-The system captures the engine level, and switch on the rear lights when breaking. The lights switch (on a 3rd chanel) allows to switch on/off the front lights and the rear ligths at 30% power (night mode).
+The system captures the engine level, and switch on the rear lights when breaking. The lights switch (on a 3rd chanel) allows to switch on/off the front lights and the rear lights at 30% power (night mode).
 
 
 The current software works for a RC Lights control system.
